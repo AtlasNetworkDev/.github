@@ -3,7 +3,7 @@
 ![badge](https://img.shields.io/badge/leads-Maploop%20%26%20Vespertilo-yellow)
 [![badge](https://jitpack.io/v/Swofty-Developments/AtlasRedisAPI.svg)](https://jitpack.io/#Swofty-Developments/AtlasRedisAPI)
 ![badge](https://img.shields.io/badge/java%20version-v1.8.0-blueviolet)
-![badge](https://img.shields.io/badge/developers-5-red)
+![badge](https://img.shields.io/badge/developers-6-red)
 [![badge](https://img.shields.io/discord/830345347867476000?label=discord)](https://discord.gg/atlasmc)
 [![badge](https://img.shields.io/github/license/Swofty-Developments/AtlasRedisAPI)](https://github.com/Swofty-Developments/AtlasRedisAPI/blob/master/LICENSE.txt)
 
