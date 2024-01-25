@@ -7,7 +7,7 @@
 [![badge](https://img.shields.io/discord/830345347867476000?label=discord)](https://discord.gg/atlasmc)
 [![badge](https://img.shields.io/github/license/Swofty-Developments/AtlasRedisAPI)](https://github.com/Swofty-Developments/AtlasRedisAPI/blob/master/LICENSE.txt)
 
-**[Official Discord](discord.gg/atlasmc)**
+**[Official Discord](https://discord.gg/atlasmc)**
 
 The official GitHub repository for the Atlas Network. This is where we host all of our libraries, main plugins, API wrappers, etc.
 
@@ -111,7 +111,7 @@ Describe who worked on each component of your push, and how much time all the co
 
 ## Developer Application
 
-To submit a developer application to the Atlas Network, please join our [discord](discord.gg/atlasmc) and follow the instructions found inside of our **#apply** channel.
+To submit a developer application to the Atlas Network, please join our [discord](https://discord.gg/atlasmc) and follow the instructions found inside of our **#apply** channel.
 
 ## License
 Atlas Network's GitHub is licensed under the permissive MIT license. Please see [`LICENSE.txt`](https://github.com/Swofty-Developments/AtlasRedisAPI/blob/master/LICENSE.txt) for more information.
